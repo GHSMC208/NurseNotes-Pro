@@ -1,0 +1,6 @@
+{
+  "name": "NurseNotes Pro - Clinical Documentation & Procedure Note Templates",
+  "description": "Professional, flexible clinical documentation templates for nurses. Quickly select, fill, and copy routine and situational bedside procedure notes directly into your EHR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
